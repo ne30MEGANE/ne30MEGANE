@@ -3,7 +3,7 @@
 
 RubyとJavaScriptが好きで、魂は音楽ゲームに売っています。
 
-- 🔭 I’m currently taking part of OTOFUDA Sound Team & Habaki
+- 🔭 I’m currently taking part in OTOFUDA Sound Team & Habaki
 - 🌱 I’m currently learning Vue.js
 
 <!--
