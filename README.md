@@ -1,10 +1,8 @@
 ### 眼鏡が本体 👓
-絵とコードを交互にやってるので草が生えたり枯れたりします。
-
 RubyとJavaScriptが好きで、魂は音楽ゲームに売っています。
 
 - 🔭 I’m currently taking part in OTOFUDA Sound Team & Habaki
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Vue.js & C#
 
 <!--
 **ne30MEGANE/ne30MEGANE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
