@@ -1,4 +1,4 @@
-### 眼鏡が本体 👓
+### めがね 👓
 RubyとJavaScriptが好きで、魂は音楽ゲームに売っています。
 
 - 🔭 I’m currently taking part in OTOFUDA Sound Team & Habaki
